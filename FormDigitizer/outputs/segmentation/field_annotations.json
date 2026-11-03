@@ -1,0 +1,42 @@
+[
+    {
+        "field": "name",
+        "bbox": [
+            112,
+            198,
+            925,
+            138
+        ],
+        "crop": "outputs\\segmentation\\name.png"
+    },
+    {
+        "field": "date",
+        "bbox": [
+            112,
+            432,
+            925,
+            123
+        ],
+        "crop": "outputs\\segmentation\\date.png"
+    },
+    {
+        "field": "address",
+        "bbox": [
+            112,
+            661,
+            925,
+            202
+        ],
+        "crop": "outputs\\segmentation\\address.png"
+    },
+    {
+        "field": "amount",
+        "bbox": [
+            112,
+            973,
+            925,
+            144
+        ],
+        "crop": "outputs\\segmentation\\amount.png"
+    }
+]

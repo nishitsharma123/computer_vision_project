@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.streamlit/secrets.toml
+
+dataset/raw/
+dataset/processed/
+
+outputs/segmentation/*.png
+outputs/recognition/*.png
+outputs/recognition/*.csv
+outputs/recognition/*.json
+
+*.log

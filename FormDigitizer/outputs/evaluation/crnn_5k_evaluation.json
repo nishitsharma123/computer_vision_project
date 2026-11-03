@@ -1,0 +1,114 @@
+{
+    "checkpoint": "models\\checkpoints\\best_hindi_crnn_5k.pth",
+    "checkpoint_epoch": 3,
+    "validation_samples": 1000,
+    "validation_loss": 1.8415495357513427,
+    "character_errors": 2967,
+    "total_actual_characters": 6088,
+    "validation_cer": 48.73521681997372,
+    "validation_word_accuracy": 5.1,
+    "correct_words": 51,
+    "total_words": 1000,
+    "sample_predictions": [
+        {
+            "actual": "रिजल्ट",
+            "predicted": "गीलं",
+            "correct": false
+        },
+        {
+            "actual": "पाया",
+            "predicted": "पाया",
+            "correct": true
+        },
+        {
+            "actual": "कीचड़",
+            "predicted": "कीयर",
+            "correct": false
+        },
+        {
+            "actual": "कढ़ी",
+            "predicted": "बही",
+            "correct": false
+        },
+        {
+            "actual": "चुन",
+            "predicted": "आुन",
+            "correct": false
+        },
+        {
+            "actual": "हथियार",
+            "predicted": "टरियार",
+            "correct": false
+        },
+        {
+            "actual": "यात्रि",
+            "predicted": "सि",
+            "correct": false
+        },
+        {
+            "actual": "खानों",
+            "predicted": "रानो",
+            "correct": false
+        },
+        {
+            "actual": "आमले",
+            "predicted": "आामने",
+            "correct": false
+        },
+        {
+            "actual": "झण्डे",
+            "predicted": "आणडे",
+            "correct": false
+        },
+        {
+            "actual": "गुलाल",
+            "predicted": "गुनाल",
+            "correct": false
+        },
+        {
+            "actual": "बाणसेन",
+            "predicted": "बाारेन",
+            "correct": false
+        },
+        {
+            "actual": "आधारित",
+            "predicted": "आपारित",
+            "correct": false
+        },
+        {
+            "actual": "सिंडिकेट",
+            "predicted": "गंिेट",
+            "correct": false
+        },
+        {
+            "actual": "किसलिए",
+            "predicted": "चिसिजा",
+            "correct": false
+        },
+        {
+            "actual": "गृहिणियाँ",
+            "predicted": "गरिय",
+            "correct": false
+        },
+        {
+            "actual": "चंडीगढ़",
+            "predicted": "चंडीगट",
+            "correct": false
+        },
+        {
+            "actual": "एबी",
+            "predicted": "मादी",
+            "correct": false
+        },
+        {
+            "actual": "जांगू",
+            "predicted": "जोगा",
+            "correct": false
+        },
+        {
+            "actual": "एआईआर",
+            "predicted": "जायाईयार",
+            "correct": false
+        }
+    ]
+}

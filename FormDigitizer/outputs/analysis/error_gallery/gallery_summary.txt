@@ -1,0 +1,306 @@
+CRNN ERROR GALLERY SUMMARY
+==========================
+
+Total validation errors: 1005
+Gallery examples: 50
+
+1. Actual: नई
+   Predicted: नर्ड
+   Character errors: 3
+   Word CER: 150.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\163\36.jpg
+
+2. Actual: उछलकर
+   Predicted: उठ्ब्वकर
+   Character errors: 5
+   Word CER: 100.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\12\22\13.jpg
+
+3. Actual: पाईप
+   Predicted: पार्डीप
+   Character errors: 4
+   Word CER: 100.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\184\13.jpg
+
+4. Actual: गंदे
+   Predicted: ई
+   Character errors: 4
+   Word CER: 100.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\80\18.jpg
+
+5. Actual: झ्र
+   Predicted: इव
+   Character errors: 3
+   Word CER: 100.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\12\32\6.jpg
+
+6. Actual: बना
+   Predicted: कि।
+   Character errors: 3
+   Word CER: 100.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\83\36.jpg
+
+7. Actual: आविर्भाव
+   Predicted: भा्विघ्याव्ि
+   Character errors: 7
+   Word CER: 87.50%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\200\26.jpg
+
+8. Actual: मुम्बई
+   Predicted: भुु्बवड़
+   Character errors: 5
+   Word CER: 83.33%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\133\5.jpg
+
+9. Actual: रचनाऐं
+   Predicted: स्पनाएें
+   Character errors: 5
+   Word CER: 83.33%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\100\7.jpg
+
+10. Actual: ड्रग्स
+   Predicted: दू्प
+   Character errors: 5
+   Word CER: 83.33%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\146\10.jpg
+
+11. Actual: इच्छाशक्ति
+   Predicted: उछूाशाकी
+   Character errors: 8
+   Word CER: 80.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\199\24.jpg
+
+12. Actual: इच्छा
+   Predicted: डखछ्ा
+   Character errors: 4
+   Word CER: 80.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\109\14.jpg
+
+13. Actual: वगेरा
+   Predicted: वेमेश
+   Character errors: 4
+   Word CER: 80.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\116\1.jpg
+
+14. Actual: ऊंच्च
+   Predicted: उंज
+   Character errors: 4
+   Word CER: 80.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\12\17\31.jpg
+
+15. Actual: बहूमत
+   Predicted: ब्वह्धमत
+   Character errors: 4
+   Word CER: 80.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\155\12.jpg
+
+16. Actual: पृष्ठभूमि
+   Predicted: प्रषृश्ूायि
+   Character errors: 7
+   Word CER: 77.78%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\67\36.jpg
+
+17. Actual: रिटायर्ड
+   Predicted: ररेठायई
+   Character errors: 6
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\95\22.jpg
+
+18. Actual: झटका
+   Predicted: झ्यटक
+   Character errors: 3
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\36\17.jpg
+
+19. Actual: लगान
+   Predicted: लेमाने
+   Character errors: 3
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\119\37.jpg
+
+20. Actual: कैरल
+   Predicted: कैख्लन
+   Character errors: 3
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\215\39.jpg
+
+21. Actual: झनकू
+   Predicted: झ्नक्ष
+   Character errors: 3
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\121\39.jpg
+
+22. Actual: छूट।
+   Predicted: छठा
+   Character errors: 3
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\49\28.jpg
+
+23. Actual: सॢवस
+   Predicted: स्रूवस
+   Character errors: 3
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\12\44\20.jpg
+
+24. Actual: लिपट
+   Predicted: लिद्ठ
+   Character errors: 3
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\3\23.jpg
+
+25. Actual: थैली
+   Predicted: भ्रैली
+   Character errors: 3
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\12\73\29.jpg
+
+26. Actual: वडवज
+   Predicted: वेठवजे
+   Character errors: 3
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\65\14.jpg
+
+27. Actual: बचते
+   Predicted: वेचत़े
+   Character errors: 3
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\65\34.jpg
+
+28. Actual: इरोम
+   Predicted: डशेम
+   Character errors: 3
+   Word CER: 75.00%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\96\13.jpg
+
+29. Actual: फ्रूट्स
+   Predicted: फृदुस
+   Character errors: 5
+   Word CER: 71.43%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\53\10.jpg
+
+30. Actual: बैकुण्ठ
+   Predicted: बैक़ूप्टु
+   Character errors: 5
+   Word CER: 71.43%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\16\4.jpg
+
+31. Actual: ज्ञापित
+   Predicted: नाषितत
+   Character errors: 5
+   Word CER: 71.43%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\162\39.jpg
+
+32. Actual: खुल्ला
+   Predicted: ख़्ुक्रा
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\217\5.jpg
+
+33. Actual: लपकाें
+   Predicted: ल्तपकों
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\23\32.jpg
+
+34. Actual: ॠषिकेश
+   Predicted: क्ृषषिकेश
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\220\5.jpg
+
+35. Actual: बुद्दु
+   Predicted: ब्षुद्ुद
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\101\15.jpg
+
+36. Actual: अधिकता
+   Predicted: आधकत्ता
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\9\26.jpg
+
+37. Actual: फ्राँस
+   Predicted: प्षॉस
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\12\41\39.jpg
+
+38. Actual: मनोभाव
+   Predicted: मतोश्याव
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\118\2.jpg
+
+39. Actual: दीर्घा
+   Predicted: दीधो
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\76\39.jpg
+
+40. Actual: संज्ञा
+   Predicted: वंना
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\203\40.jpg
+
+41. Actual: अभिन्न
+   Predicted: अश्ित्र
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\44\7.jpg
+
+42. Actual: भुट्टे
+   Predicted: भूदे
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\146\35.jpg
+
+43. Actual: सौतेले
+   Predicted: ख्वखौतेले
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\115\15.jpg
+
+44. Actual: बार्टल
+   Predicted: बादले
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\68\29.jpg
+
+45. Actual: बादलों
+   Predicted: वाहल
+   Character errors: 4
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\36\31.jpg
+
+46. Actual: चित
+   Predicted: चचेत
+   Character errors: 2
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\168\27.jpg
+
+47. Actual: आलम
+   Predicted: भलस
+   Character errors: 2
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\1\10.jpg
+
+48. Actual: जॉब
+   Predicted: जँ
+   Character errors: 2
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\23\33.jpg
+
+49. Actual: कलश
+   Predicted: कलश्ा
+   Character errors: 2
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\12\18\31.jpg
+
+50. Actual: सजा
+   Predicted: स्यजा
+   Character errors: 2
+   Word CER: 66.67%
+   Image: dataset\raw\IIIT-HW-Hindi_v1\HindiSeg\HindiSeg\val\3\194\36.jpg
+
